@@ -1,3 +1,5 @@
+> [!NOTE]
+> This is a third-party application and is not endorsed by or affiliated with Renewed Vision.
 
 # Restrict ProPresenter Updates
 A small open-source macOS app that allows you to block ProPresenter from being accidentally updated by volunteers.
